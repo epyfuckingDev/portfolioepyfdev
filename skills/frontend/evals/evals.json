@@ -1,0 +1,23 @@
+{
+  "skill_name": "frontend",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Cria a página inicial do epyfdev.com para Epifânio Afonso (Epy), empreendedor angolano com 4 projectos activos: FX Digital, LegalAO, @dinheirodoangolan e Solução Doméstica. Design minimalista, moderno, mobile-first. Audiência angolana (95% mobile). Sem excessos, só o suficiente para apresentar quem é e o que constrói.",
+      "expected_output": "Uma homepage de portfólio pessoal limpa e profissional, com hero forte, secção Sobre curta, apresentação clara dos 4 projectos, CTA de contacto ou colaboração e implementação mobile-first pronta para deploy.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Cria uma landing page para o serviço de gestão de redes sociais da FX Digital. Objectivo: gerar leads via WhatsApp. Público: donos de negócio em Angola. CTA principal: 'Fala connosco no WhatsApp'.",
+      "expected_output": "Uma landing page orientada à conversão, com proposta de valor clara, benefícios do serviço, prova de credibilidade, objecções reduzidas, CTA forte para WhatsApp e estrutura pensada para empresários angolanos em mobile.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "O frontend de uma página existe mas parece genérico e sem personalidade. Melhora a hierarquia visual, tipografia e espaçamento sem alterar o conteúdo ou objectivo da página.",
+      "expected_output": "Um redesign de frontend que mantenha o mesmo conteúdo e propósito, mas torne a interface mais intencional, legível, moderna e convincente, com melhor ritmo visual e melhor acabamento responsivo.",
+      "files": []
+    }
+  ]
+}

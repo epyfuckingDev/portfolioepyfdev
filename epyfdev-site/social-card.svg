@@ -1,0 +1,31 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F6F1EA"/>
+  <rect width="1200" height="630" fill="url(#paint0_radial)"/>
+  <rect width="1200" height="630" fill="url(#paint1_radial)"/>
+  <rect x="36" y="36" width="1128" height="558" rx="40" fill="rgba(255,253,249,0.9)" stroke="rgba(23,20,17,0.08)"/>
+  <rect x="86" y="86" width="140" height="140" rx="32" fill="#171411"/>
+  <path d="M188 107L202 121L164 159L148 143L121 170L112 161L148 125L164 141L188 107Z" fill="#0F8A6D"/>
+  <text x="113" y="197" fill="#FFFDF9" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="0.02em">epy</text>
+  <text x="86" y="286" fill="#62584D" font-family="Space Grotesk, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="0.16em">EPYFDEV.COM</text>
+  <text x="86" y="370" fill="#171411" font-family="Space Grotesk, Arial, sans-serif" font-size="68" font-weight="700">
+    <tspan x="86" dy="0">Epifânio Afonso</tspan>
+    <tspan x="86" dy="82">empreendedor angolano</tspan>
+  </text>
+  <text x="86" y="532" fill="#62584D" font-family="Space Grotesk, Arial, sans-serif" font-size="28" font-weight="500">
+    Epyfdev: resolvedor de problemas para o mercado angolano
+  </text>
+  <rect x="894" y="438" width="220" height="72" rx="36" fill="#171411"/>
+  <text x="1004" y="482" text-anchor="middle" fill="#FFFDF9" font-family="Space Grotesk, Arial, sans-serif" font-size="24" font-weight="700">
+    epyfdev.com
+  </text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(213 80) rotate(44.9357) scale(566.177 677.146)">
+      <stop stop-color="#0F8A6D" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0F8A6D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 120) rotate(133.795) scale(464.395 440.56)">
+      <stop stop-color="#E46F44" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#E46F44" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

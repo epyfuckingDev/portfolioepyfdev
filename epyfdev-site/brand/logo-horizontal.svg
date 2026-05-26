@@ -1,0 +1,10 @@
+<svg width="920" height="280" viewBox="0 0 920 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="920" height="280" rx="44" fill="#FFF8ED"/>
+  <rect x="36" y="36" width="208" height="208" rx="58" fill="#171411"/>
+  <rect x="51" y="51" width="178" height="178" rx="42" stroke="#0F8A6D" stroke-opacity="0.32" stroke-width="4"/>
+  <path d="M176 82L192 98L148 142L126 120L92 154L82 144L126 100L148 122L176 82Z" fill="#0F8A6D"/>
+  <text x="89" y="196" fill="#FFFDF9" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="0.02em">epy</text>
+  <text x="294" y="128" fill="#171411" font-family="'Space Grotesk', Arial, sans-serif" font-size="94" font-weight="700" letter-spacing="-0.06em">epy</text>
+  <text x="462" y="128" fill="#0C6C56" font-family="'Space Grotesk', Arial, sans-serif" font-size="94" font-weight="700" letter-spacing="-0.06em">fdev</text>
+  <text x="298" y="186" fill="#62584D" font-family="'Space Grotesk', Arial, sans-serif" font-size="30" font-weight="500">resolvedor de problemas</text>
+</svg>
